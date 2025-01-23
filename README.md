@@ -13,14 +13,11 @@ This project showcases an interactive sales analysis dashboard built using **Mic
 
 ## Folder Structure
 
-### [1. Coffee Shop Datasets](https://github.com/21BPS1591/Coffee-Shop-Analysis/tree/main/coffee%20shop%20datasets)
-- [1.1 Customers.csv](https://github.com/21BPS1591/Coffee-Shop-Analysis/blob/main/coffee%20shop%20datasets/customers.csv)
-- [1.2 Orders.csv](https://github.com/21BPS1591/Coffee-Shop-Analysis/blob/main/coffee%20shop%20datasets/orders.csv)
-- [1.3 Products.csv](https://github.com/21BPS1591/Coffee-Shop-Analysis/blob/main/coffee%20shop%20datasets/products.csv)
+### [1. Coffee Shop Datasets](https://github.com/21BPS1591/Coffee-Shop-Analysis/blob/main/Coffee_Shop_Sales.xlsx)
 
 ### [2. Coffee Shop Sales.xlsx](https://github.com/21BPS1591/Coffee-Shop-Analysis/blob/main/Coffee%20Shop%20Sales.xlsx)
 
-### [3. Dashboard.png](https://github.com/21BPS1591/Coffee-Shop-Analysis/blob/main/Dashboard%20.png)
+### [3. Dashboard.png](https://github.com/21BPS1591/Coffee-Shop-Analysis/blob/main/Dashboard1.png)
 
 ### [4. Coffee Shop Sales Analysis.pdf (Questions)](https://github.com/21BPS1591/Coffee-Shop-Analysis/blob/main/Coffee%20Shop%20Sales%20Analysis.pdf)
 
