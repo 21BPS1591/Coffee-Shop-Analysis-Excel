@@ -57,7 +57,7 @@ This project showcases an interactive sales analysis dashboard built using **Mic
 
 ## Files Included
 - **[Coffee Shop Sales.xlsx](https://github.com/21BPS1591/Coffee-Shop-Analysis/blob/main/Coffee%20Shop%20Sales.xlsx)**: The Excel file containing the interactive dashboard.
-- **[Dashboard.png](https://github.com/21BPS1591/Coffee-Shop-Analysis/blob/main/Dashboard%20.png)**: Screenshot of the dashboard.
+- **[Dashboard.png](https://github.com/21BPS1591/Coffee-Shop-Analysis/blob/main/Dashboard1.png)**: Screenshot of the dashboard.
 - **[Coffee Shop Sales Analysis.pdf](https://github.com/21BPS1591/Coffee-Shop-Analysis/blob/main/Coffee%20Shop%20Sales%20Analysis.pdf)**: Document with the project’s questions.
 - **[README.md](https://github.com/21BPS1591/Coffee-Shop-Analysis/blob/main/README.md)**: Documentation for the project.
 
