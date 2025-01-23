@@ -17,6 +17,8 @@ This project showcases an interactive sales analysis dashboard built using **Mic
 
 ### [2. Coffee Shop Sales.xlsx](https://github.com/21BPS1591/Coffee-Shop-Analysis/blob/main/Coffee%20Shop%20Sales.xlsx)
 
+### [2. Executive Summary.pdf](https://github.com/21BPS1591/Coffee-Shop-Analysis/blob/main/Coffee_Shop_Sales_Executive_Summary.pdf)
+
 ### [3. Dashboard.png](https://github.com/21BPS1591/Coffee-Shop-Analysis/blob/main/Dashboard1.png)
 
 ### [4. Coffee Shop Sales Analysis.pdf (Questions)](https://github.com/21BPS1591/Coffee-Shop-Analysis/blob/main/Coffee%20Shop%20Sales%20Analysis.pdf)
@@ -57,6 +59,7 @@ This project showcases an interactive sales analysis dashboard built using **Mic
 
 ## Files Included
 - **[Coffee Shop Sales.xlsx](https://github.com/21BPS1591/Coffee-Shop-Analysis/blob/main/Coffee%20Shop%20Sales.xlsx)**: The Excel file containing the interactive dashboard.
+- **[Executive Summary.pdf](https://github.com/21BPS1591/Coffee-Shop-Analysis/blob/main/Coffee_Shop_Sales_Executive_Summary.pdf)**: The Pdf file containing the Executive Summary.
 - **[Dashboard.png](https://github.com/21BPS1591/Coffee-Shop-Analysis/blob/main/Dashboard1.png)**: Screenshot of the dashboard.
 - **[Coffee Shop Sales Analysis.pdf](https://github.com/21BPS1591/Coffee-Shop-Analysis/blob/main/Coffee%20Shop%20Sales%20Analysis.pdf)**: Document with the project’s questions.
 - **[README.md](https://github.com/21BPS1591/Coffee-Shop-Analysis/blob/main/README.md)**: Documentation for the project.
