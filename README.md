@@ -7,7 +7,7 @@ This project showcases an interactive sales analysis dashboard built using **Mic
 ---
 
 ## Dashboard Preview
-![Dashboard](https://github.com/21BPS1591/Coffee-Shop-Analysis/blob/main/Dashboard%20.png)
+![Dashboard](https://github.com/21BPS1591/Coffee-Shop-Analysis/blob/main/Dashboard1.png)
 
 ---
 
