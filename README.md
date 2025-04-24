@@ -87,9 +87,4 @@ This project showcases an interactive sales analysis dashboard built using **Mic
 - **Product Performance:**
   - Barista Espresso and Brewed Chai Tea are top sellers.
 
----
 
-## Future Enhancements
-- Integrating real-time sales data updates.
-- Adding more detailed customer segmentation.
-- Including profitability analysis for various product categories.
